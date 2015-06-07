@@ -1,0 +1,33 @@
+[Sat Jun 06 12:07:11.520811 2015] [ssl:warn] [pid 2716:tid 516] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 06 12:07:12.082412 2015] [ssl:warn] [pid 2716:tid 516] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 06 12:07:12.488012 2015] [mpm_winnt:notice] [pid 2716:tid 516] AH00455: Apache/2.4.12 (Win32) OpenSSL/1.0.1l PHP/5.4.0 configured -- resuming normal operations
+[Sat Jun 06 12:07:12.488012 2015] [mpm_winnt:notice] [pid 2716:tid 516] AH00456: Apache Lounge VC9 Server built: Jan 30 2015 11:29:54
+[Sat Jun 06 12:07:12.488012 2015] [core:notice] [pid 2716:tid 516] AH00094: Command line: 'H:\\Rails\\apache2\\bin\\httpd.exe -d H:/Rails/apache2 -f H:\\Rails\\apache2\\conf\\httpd.conf'
+[Sat Jun 06 12:07:12.503612 2015] [mpm_winnt:notice] [pid 2716:tid 516] AH00418: Parent: Created child process 2488
+[Sat Jun 06 12:07:14.500416 2015] [ssl:warn] [pid 2488:tid 420] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 06 12:07:15.030817 2015] [ssl:warn] [pid 2488:tid 420] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 06 12:07:15.108817 2015] [mpm_winnt:notice] [pid 2488:tid 420] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 06 12:40:11.759172 2015] [mpm_winnt:notice] [pid 2716:tid 516] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jun 06 12:40:13.787176 2015] [mpm_winnt:notice] [pid 2488:tid 420] AH00364: Child: All worker threads have exited.
+[Sat Jun 06 12:40:14.629577 2015] [mpm_winnt:notice] [pid 2716:tid 516] AH00430: Parent: Child process 2488 exited successfully.
+[Sat Jun 06 12:40:19.605986 2015] [ssl:warn] [pid 1920:tid 516] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 06 12:40:20.167587 2015] [ssl:warn] [pid 1920:tid 516] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 06 12:40:20.479587 2015] [mpm_winnt:notice] [pid 1920:tid 516] AH00455: Apache/2.4.12 (Win32) OpenSSL/1.0.1l PHP/5.4.0 configured -- resuming normal operations
+[Sat Jun 06 12:40:20.479587 2015] [mpm_winnt:notice] [pid 1920:tid 516] AH00456: Apache Lounge VC9 Server built: Jan 30 2015 11:29:54
+[Sat Jun 06 12:40:20.479587 2015] [core:notice] [pid 1920:tid 516] AH00094: Command line: 'H:\\Rails\\apache2\\bin\\httpd.exe -d H:/Rails/apache2 -f H:\\Rails\\apache2\\conf\\httpd.conf'
+[Sat Jun 06 12:40:20.479587 2015] [mpm_winnt:notice] [pid 1920:tid 516] AH00418: Parent: Created child process 1904
+[Sat Jun 06 12:40:23.209592 2015] [ssl:warn] [pid 1904:tid 420] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 06 12:40:23.802393 2015] [ssl:warn] [pid 1904:tid 420] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 06 12:40:23.849193 2015] [mpm_winnt:notice] [pid 1904:tid 420] AH00354: Child: Starting 64 worker threads.
+[Sat Jun 06 12:40:30.151604 2015] [mpm_winnt:notice] [pid 1920:tid 516] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jun 06 12:40:32.179608 2015] [mpm_winnt:notice] [pid 1904:tid 420] AH00364: Child: All worker threads have exited.
+[Sat Jun 06 12:40:32.210808 2015] [mpm_winnt:notice] [pid 1920:tid 516] AH00430: Parent: Child process 1904 exited successfully.
+[Sat Jun 06 12:40:34.566412 2015] [ssl:warn] [pid 3068:tid 516] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 06 12:40:35.159213 2015] [ssl:warn] [pid 3068:tid 516] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 06 12:40:35.206013 2015] [mpm_winnt:notice] [pid 3068:tid 516] AH00455: Apache/2.4.12 (Win32) OpenSSL/1.0.1l PHP/5.4.0 configured -- resuming normal operations
+[Sat Jun 06 12:40:35.206013 2015] [mpm_winnt:notice] [pid 3068:tid 516] AH00456: Apache Lounge VC9 Server built: Jan 30 2015 11:29:54
+[Sat Jun 06 12:40:35.206013 2015] [core:notice] [pid 3068:tid 516] AH00094: Command line: 'H:\\Rails\\apache2\\bin\\httpd.exe -d H:/Rails/apache2 -f H:\\Rails\\apache2\\conf\\httpd.conf'
+[Sat Jun 06 12:40:35.221613 2015] [mpm_winnt:notice] [pid 3068:tid 516] AH00418: Parent: Created child process 876
+[Sat Jun 06 12:40:37.000016 2015] [ssl:warn] [pid 876:tid 420] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 06 12:40:37.499217 2015] [ssl:warn] [pid 876:tid 420] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jun 06 12:40:37.561617 2015] [mpm_winnt:notice] [pid 876:tid 420] AH00354: Child: Starting 64 worker threads.

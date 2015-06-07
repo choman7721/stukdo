@@ -1,0 +1,11 @@
+<service>
+  <id>rubystackNginx</id>
+  <name>rubystackNginx</name>
+  <description></description>
+  <executable>H:/Rails/nginx\nginx.exe</executable>
+  <logpath>H:/Rails/nginx\logs</logpath>
+  <logmode>roll</logmode>
+  <depend></depend>
+  <startargument>-p "H:/Rails/nginx"</startargument>
+  <stopargument>-p "H:/Rails/nginx" -s stop</stopargument>
+</service>

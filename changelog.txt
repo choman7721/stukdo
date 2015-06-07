@@ -1,0 +1,1450 @@
+============ CHANGELOG =============
+
+Version 2.0.0-26      2015-05-07
+* Dropping RC4 from Apache SSLCipherSuite directive
+* Updated phpMyAdmin to 4.4.3
+* Updated PHP to 5.4.40
+* Updated Ruby to 2.1.6
+* Updated Passenger to 5.0.6
+
+Version 2.1.6-0       2015-04-16
+* Updated Ruby to 2.2.2
+* Updated Passenger to 5.0.6
+
+Version 2.0.0-25      2015-04-16
+* Updated Ruby to 2.0.0-p645
+* Updated Passenger to 5.0.6
+
+Version 2.0.0-24      2015-03-24
+* Updated OpenSSL to 1.0.1m
+* Updated PHP to 5.4.39
+* Updated Ruby to 2.0.0-p643
+* Updated Passenger to 5.0.4
+* Fixed binaries for Git
+* Updated PostgreSQL to 9.3.6
+* Updated Apache to 2.4.12
+* Updated MySQL to 5.5.42 for Linux and Windows
+* Updated PageSpeed to 1.9.32.3
+* Updated phpMyAdmin to 4.3.7
+* Updated Node.js to 0.10.35
+* Updated Rails to 4.2.0
+
+
+Version 2.2.1-0      2015-03-18
+* Updated Ruby to 2.0.0-p643
+* Updated Passenger to 5.0.4
+* Updated OpenSSL to 1.0.1l
+* Fixed binaries for Git
+* Updated PHP to 5.4.38
+* Updated PostgreSQL to 9.3.6
+* Updated Apache to 2.4.12
+* Updated MySQL to 5.5.42 for Linux and Windows
+* Updated PageSpeed to 1.9.32.3
+* Updated phpMyAdmin to 4.3.7
+* Updated Node.js to 0.10.35
+* Updated Rails to 4.2.0
+
+Version 2.2.0-0      2015-01-13
+* Updated Ruby to 2.2.0 (OS X and Linux)
+* Updated Passenger to 4.0.57
+* Updated Rails to 4.2.0
+
+Version 2.1.5-1      2015-01-02
+* Added support for Windows in Ruby 2.1
+* Updated Node.js to 0.10.34
+* Updated phpMyAdmin to 4.3.3
+* Updated PHP to 5.4.36
+* Updated Git to 1.9.5
+* Updated PHP to 5.4.35
+* Updated phpMyAdmin to 4.2.12
+* Don't use cacls command to change PostgreSQL data permissions
+
+Version 1.9.3-27      2014-11-14
+* Updated Ruby to 1.9.3-p550 (OS X and Linux)
+
+Version 2.0.0-23      2014-11-14
+* Updated Ruby to 2.0.0-p598 (OS X and Linux)
+
+Version 2.1.5-0      2014-11-14
+* Updated Ruby to 2.1.5
+
+Version 1.9.3-26      2014-11-04
+* Updated Ruby to 1.9.3-p550
+* Updated Passenger to 4.0.53
+
+Version 2.1.4-0      2014-11-03
+* Updated Ruby to 2.1.4
+* Updated Passenger to 4.0.53
+* Updated Rails to 4.1.7
+
+Version 2.0.0-22      2014-11-03
+* Updated Ruby to 2.0.0-p594
+* Updated Passenger to 4.0.53
+* Updated Rails to 4.1.7
+
+Version 2.1.3-1      2014-10-24
+* Fix MySQL startup issue for OS X Yosemite
+* Updated PHP to 5.4.34
+* Updated OpenSSL to 1.0.1j
+* Added OCI8 module. It requires InstantClient 11.2.
+* Updated phpMyAdmin to 4.2.9.1
+* Updated MySQL to 5.5.40
+
+Version 2.0.0-20      2014-10-23
+* Fix MySQL startup issue for OS X Yosemite
+* Updated PHP to 5.4.34
+* Updated OpenSSL to 1.0.1j
+* Added OCI8 module. It requires InstantClient 11.2.
+* Updated phpMyAdmin to 4.2.9.1
+* Updated MySQL to 5.5.40
+
+Version 2.1.3-0      2014-09-26
+* Updated Nginx to 1.6.2
+* Updated Ruby to 2.1.3
+
+Version 2.0.0-20      2014-09-18
+* Updated Rails to 4.1.6
+* Updated Passenger to 4.0.50
+* Updated Node.js to 0.10.31
+* Updated phpMyAdmin to 4.2.8
+* Updated MySQL to 5.5.39
+* Updated PHP to 5.4.32
+* Updated Nginx to 1.6.1
+* Updated OpenSSL to 1.0.1i
+* Updated phpMyAdmin to 4.2.7.1
+
+Version 2.1.2-3      2014-09-18
+* Updated Rails to 4.1.6
+* Updated Passenger to 4.0.50
+* Updated Node.js to 0.10.31
+* Updated phpMyAdmin to 4.2.8
+* Updated MySQL to 5.5.39
+* Updated PHP to 5.4.32
+* Updated Nginx to 1.6.1
+* Updated OpenSSL to 1.0.1i
+* Updated phpMyAdmin to 4.2.7.1
+
+Version 2.0.0-18      2014-08-19
+* Updated Rails to 4.1.5
+* Updated Bundler to 1.7.0
+
+Version 2.1.2-2      2014-08-19
+* Updated Rails to 4.1.5
+* Updated Bundler to 1.7.0
+
+Version 2.0.0-17      2014-07-30
+* Now Ruby 2.0.0-p481
+* Updated Apache to 2.4.10
+* Updated PHP to 5.4.31
+
+Version 2.1.2-1      2014-07-24
+* Updated Rails to 4.1.4
+* Updated Node.JS to 0.10.29
+* Updated Redis to 2.8.13
+* Updated MySQL to 5.5.38
+* Updated XDebug to 2.2.5
+* Updated XCache to 3.1.0
+* Updated mongo-php-driver to 1.5.4
+* Updated php-couchbase to 1.1.5
+* Updated Libxslt to 1.1.28
+* Updated Libxml2 to 2.9.1
+* Updated PHP to 5.4.30
+* Updated phpMyAdmin to 4.2.5
+* Added hook scripts to Subversion
+* Updated OpenSSL to 1.0.1h
+* Updated Passenger to 4.0.45
+
+Version 2.0.0-16      2014-07-24
+* Updated Rails to 4.1.4
+* Updated Node.JS to 0.10.29
+* Updated Redis to 2.8.13
+* Updated MySQL to 5.5.38
+* Updated XDebug to 2.2.5
+* Updated XCache to 3.1.0
+* Updated mongo-php-driver to 1.5.4
+* Updated php-couchbase to 1.1.5
+* Updated Libxslt to 1.1.28
+* Updated Libxml2 to 2.9.1
+* Updated PHP to 5.4.30
+* Updated phpMyAdmin to 4.2.5
+* Added hook scripts to Subversion
+* Updated OpenSSL to 1.0.1h
+* Updated Passenger to 4.0.45
+
+Version 1.9.3-25      2014-07-23
+* Updated Rails to 3.2.19
+* Updated Node.JS to 0.10.29
+* Updated Redis to 2.8.13
+* Updated MySQL to 5.5.38
+* Updated XDebug to 2.2.5
+* Updated XCache to 3.1.0
+* Updated mongo-php-driver to 1.5.4
+* Updated php-couchbase to 1.1.5
+* Updated Libxslt to 1.1.28
+* Updated Libxml2 to 2.9.1
+* Updated PHP to 5.4.30
+* Updated phpMyAdmin to 4.2.5
+* Added hook scripts to Subversion
+* Updated OpenSSL to 1.0.1h
+* Updated Passenger to 4.0.45
+* Updated Ruby to 1.9.3-p547 on Linux and OS X
+
+Version 2.1.2-0      2014-05-13
+* Updated Ruby to 2.1.2
+
+Version 2.0.0-15      2014-05-12
+* Updated Ruby to 2.0.0-p481
+
+Version 2.1.1-2      2014-05-08
+* Updated Rails to 4.4.1
+
+Version 2.0.0-14      2014-05-07
+* Updated Rails to 4.4.1
+
+Version 1.9.3-24      2014-05-07
+* Updated Rails to 3.2.18
+* Fixed issue with Nginx when installed as normal user
+* Update mod_pagespeed to 1.7.30.4 for Linux
+* Added libv8 and v8js PHP extension for Linux and OS X
+* Fixed issue with non standard Tomcat ports and default java settings
+
+Version 2.1.1-1      2014-04-11
+* Updated OpenSSL to 1.0.1g
+* Updated phpMyAdmin to 4.1.12
+* Improved Apache configuration for PHP-FPM mode
+* Updated Apache to 2.4.9
+* Updated Passenger to 4.0.40
+* Updated Node.JS to 0.10.26
+* Updated nginx to 1.4.6
+* Updated Git to 1.9.0
+* Updated Subversion to 1.8.8 in Linux and OS X
+* Updated PHP to 5.4.26
+* Updated PostgreSQL to 9.3.3
+* Updated MySQL to 5.5.36
+
+Version 1.9.3-23      2014-04-08
+* Updated OpenSSL to 1.0.1g
+* Updated phpMyAdmin to 4.1.12
+* Improved Apache configuration for PHP-FPM mode
+* Updated Apache to 2.4.9
+* Updated Passenger to 4.0.40
+* Updated Node.JS to 0.10.26
+* Updated nginx to 1.4.6
+* Updated Git to 1.9.0
+* Updated Subversion to 1.8.8 in Linux and OS X
+* Updated PHP to 5.4.26
+* Updated PostgreSQL to 9.3.3
+* Updated MySQL to 5.5.36
+
+Version 2.1.1-0      2014-02-26
+* Updated Ruby to 2.1.1
+* Updated Rails to 4.0.3
+
+Version 2.0.0-11      2014-02-26
+* Updated Ruby to 2.0.0-p451
+* Updated Rails to 4.0.3
+
+Version 1.9.3-22      2014-02-26
+* Updated Ruby to 1.9.3-p545
+
+Version 1.9.3-21      2014-02-19
+* Updated Rails to 3.2.17
+
+Version 2.1.0-2      2014-02-10
+* Updated libyaml to 0.1.5
+
+Version 2.0.0-10      2014-02-07
+* Updated libyaml to 0.1.5
+
+Version 1.9.3-20      2014-02-07
+* Updated libyaml to 0.1.5
+
+Version 2.1.0-1      2014-01-28
+* Updated Varnish to 3.0.5
+* Updated phpMyAdmin to 4.1.4
+* Updated PHP to 5.4.24
+* Updated PostgreSQL to 9.3.2
+* Updated Subversion to 1.8.5
+* Updated OpenSSL to 1.0.1f in Linux and OSX
+* Updated Git to 1.8.5.2
+
+Version 2.0.0-9      2014-01-28
+* Updated Varnish to 3.0.5
+* Updated phpMyAdmin to 4.1.4
+* Updated PHP to 5.4.24
+* Updated PostgreSQL to 9.3.2
+* Updated Subversion to 1.8.5
+* Updated OpenSSL to 1.0.1f in Linux and OSX
+* Updated Git to 1.8.5.2
+
+Version 1.9.3-19      2014-01-28
+* Updated Varnish to 3.0.5
+* Updated phpMyAdmin to 4.1.4
+* Updated PHP to 5.4.24
+* Updated PostgreSQL to 9.3.2
+* Updated Subversion to 1.8.5
+* Updated OpenSSL to 1.0.1f in Linux and OSX
+* Updated Git to 1.8.5.2
+
+Version 2.1.0-0      2013-12-27
+* Updated Ruby to 2.1.0
+* Updated Node.js to 0.10.24
+* Updated phpMyAdmin to 4.1.0
+* Updated PHP to 5.4.23
+
+Version 2.1.0preview2-1      2013-12-05
+* Updated Rails to 4.0.2
+
+Version 2.0.0-8      2013-12-05
+* Updated Rails to 4.0.2
+
+Version 1.9.3-18      2013-12-04
+* Updated Rails to 3.2.16
+
+Version 2.1.0preview2-0      2013-11-25
+* Updated Ruby to 2.1.0preview2
+
+Version 2.0.0-7      2013-11-25
+* Updated Ruby to 2.0.0-p353
+
+Version 1.9.3-17      2013-11-22
+* Updated Ruby to 1.9.3-p484 for Linux and OSX
+* Updated Node.js to 0.10.22
+* Updated MySQL to 5.5.34
+* Updated Subversion to 1.8.4
+* Updated nginx to 1.4.4
+* Updated PHP to 5.4.22
+* Updated phpMyAdmin to 4.0.9
+* Updated PostgreSQL to 9.3.1
+
+Version 2.0.0-6      2013-11-12
+* Updated gems rails and its dependences to 4.0.1
+
+VERSION 1.9.3-16      2013-10-21
+* Updated PHP to 5.4.21
+* Updated phpMyAdmin to 4.0.8
+
+Version 1.9.3-15      2013-10-18
+* Updated Rails to 3.2.15
+* Updated Node.JS to 0.10.20
+* Added PHP-FPM support for cloud images and VMs
+* Ruby 2.1.0preview1
+* Updated Node.JS to 0.10.19
+* Fix SSL support for Subversion on Unix
+* Updated Java to 1.7.0_40
+* Updated PHP to 5.4.20
+
+Version 1.9.3-14      2013-09-16
+* Added new page for "standard" or "custom" installation
+* Updated Subversion to 1.8.3
+* Updated Passenger to 4.0.17
+* Updated PHP to 5.4.19
+* Updated Rubygems to 2.0.6 for Linux and OSX
+* Added apr-dbd PostgreSQL and MySQL drivers for Linux & OS X
+* Added Node.js
+* Added PostgreSQL 9.3.0
+* Added imagick PHP extension to Linux and OS X 
+
+Version 2.0.0-5      2013-09-16
+* Added new page for "standard" or "custom" installation
+* Updated Subversion to 1.8.3
+* Updated Passenger to 4.0.17
+* Updated PHP to 5.4.19
+* Updated Rubygems to 2.0.6 for Linux and OSX
+* Added apr-dbd PostgreSQL and MySQL drivers for Linux & OS X
+* Added Node.js
+* Added PostgreSQL 9.3.0
+* Added imagick PHP extension to Linux and OS X 
+
+Version 2.0.0-4      2013-08-02
+* Updated Rubygems to 2.0.6 for Linux and OSX
+
+Version 1.9.3-13      2013-07-23
+* Updated Rails to 3.2.14
+* Updated Apache to 2.4.6
+* Updated PHP to 5.4.17
+* Updated Tomcat to 7.0.42
+* Updated Nginx to 1.4.1
+* Added PageSpeed 1.6.29.2 modules for Apache and NGinx
+
+Version 1.8.7-6      2013-06-30
+* Upgrade Ruby to 1.8.7-p374 for Linux and OSX                  
+* Updated MySQL to 5.5.32
+
+Version 1.9.3-12      2013-06-28
+* Upgrade Ruby to 1.9.3-p448 for Linux and OSX                  
+* Updated MySQL to 5.5.32
+
+Version 2.0.0-3      2013-06-28
+* Upgrade Ruby to 2.0.0-p247 for Linux and OSX                  
+* Updated MySQL to 5.5.32
+
+Version 2.0.0-2      2013-06-26
+* Updated Rails to 4.0.0
+
+Version 1.9.3-11      2013-06-13
+* Updated PHP to 5.4.16
+* Updated phpMyAdmin to 4.0.3
+* Updated Python to 2.7.5
+* Updated Git to 1.8.3
+
+Version 2.0.0-1      2013-05-28
+* Updated Ruby to 2.0.0-p195
+* Updated Passenger to 4.0.2
+
+Version 1.9.3-10      2013-05-16
+* Upgrade Ruby to 1.9.3-p429 for Linux and OSX
+* Updated Passenger to 4.0.2
+* Updated phpMyAdmin to 4.0.0 
+* Updated Apache to 2.4.4
+* Added Apache MPM prefork, worker and event
+* Updated Perl to 5.16.3
+* Updated mod_perl to 2.0.8-dev
+* Updated Perl DBD-mysql to 4.0.23
+* Updated Perl DBI to 1.625
+* Updated Perl XML::LibXML module to 2.0016
+
+Version 1.9.3-9      2013-04-25
+* Added patches that improve Ruby 1.9.3 for Linux and OSX.
+
+Version 1.9.3-8      2013-04-24
+* Added patches that improve Ruby 1.9.3 for Windows.
+
+Version 1.9.3-7      2013-04-18
+* Updated Passenger to 4.0.0.rc6
+* Updated MySQL to 5.5.30
+* Updated Redis to 2.6.12
+* Updated Varnish to 3.0.3
+* Updated Git to 1.8.2
+* Added required compilation environment variables
+to fix 'gem install rmagick'
+
+Version 1.9.3-6      2013-03-23
+* Updated Rails to 3.2.13 to fix CVE-2013-1855,
+CVE-2013-1856 and CVE-2013-1857.
+* Updated Ruby to 1.9.3-p392
+* Updated Passenger to 4.0.0.rc4
+* Updated PHP to 5.4.13    
+* Updated Apache to 2.2.24
+* Added Redis 2.4.13
+
+Version 2.0.0-0      2013-02-28
+* Added support for  Ruby to 2.0.0-p0 on Windows
+
+Version 2.0.0-0      2013-02-25
+* Updated Ruby to 2.0.0-p0
+* Updated Rails to 3.2.12
+
+Version 1.8.7-4      2013-02-20
+* Updated Rails to 2.3.17 and json to 1.7.7 to fix
+CVE-2013-0269, CVE-2013-0276 and CVE-2013-0277.
+
+Version 1.9.3-5      2013-02-19
+* Updated Rails to 3.2.12 and json to 1.7.7 to fix
+CVE-2013-0269, CVE-2013-0276 and CVE-2013-0277.
+
+Version 1.8.7-3      2013-01-30
+* Added fix for JSON Parser CVE-2013-0333
+
+Version 2.0.0.rc1-0      2013-01-23
+* Updated Ruby to 2.0.0rc1
+* Updated MySQL to 5.5.29
+
+Version 1.8.7-2      2013-01-15
+* Added fix for Active Record with JSON CVE-2013-0155 in activerecord-2.3.15
+
+Version 1.9.3-4      2013-01-09
+* Updated Rails to 3.2.11 to fix Unsafe Query Generation Risk in Ruby on
+Rails (CVE-2013-0155) and Multiple vulnerabilities in parameter parsing
+in Action Pack (CVE-2013-0156) in Rails 3.2.10
+
+Version 1.8.7-1      2013-01-09
+* Updated Rails to 2.3.15 to fix CVE-2012-5664 and CVE-2013-0156
+* Added fix for SQL injection CVE-2012-5664 in Rails 2.3.14
+
+Version 1.9.3-4      2013-01-09
+* Updated Rails to 3.2.11 to fix Unsafe Query Generation Risk in Ruby on
+Rails (CVE-2013-0155) and Multiple vulnerabilities in parameter parsing
+in Action Pack (CVE-2013-0156) in Rails 3.2.10
+
+Version 1.9.3-3      2013-01-08
+* Updated gem rails and its dependencies to 3.2.10 to fix CVE-2012-5664
+* Increased the max allowed size for PHP upload files to 32M
+* Updated phpMyAdmin 3.5.4
+* Updated Laravel to 3.2.13
+* Fixed restarting Apache with Passenger issue in micro instances
+* Fixed ImageMagick issue with fonts on Linux 64bit 
+* Fixed SSL_CERT_FILE issue with Ruby
+* Updated PHP to 5.4.10
+* Updated phpMyAdmin 3.5.5
+* Updated Symfony to 2.1.5
+* Updated CakePHP to 2.2.4
+* Updated ZendFramework to 2.0.5
+* Increased the max allowed size for PHP upload files to 32M
+
+Version 1.9.3-1      2012-11-15
+* Updated Ruby to 1.9.3-p327
+* Updated MySQL to 5.5.28
+* Updated Rails to 3.2.9
+* Updated Passenger to 3.9.1.beta
+
+Version 2.0.0.preview1-0      2012-11-14
+* Ruby 2.0.0-preview1
+* Apache 2.2.23
+* NGinx 1.3.4
+* Varnish 3.0.1
+* Git 1.7.11.3
+* MySQL 5.5.28
+* SQLite 3.7.10
+* PHP 5.4.8
+* phpMyAdmin 3.5.3
+* ImageMagick 6.7.5
+* Gems:
+- rails 3.2.9
+- aws-sdk 1.6.9
+- bundler 1.1.5
+- nokogiri 1.5.5
+- passenger 3.0.17
+- rmagick 2.13.1
+- rvm 1.11.3.5
+- thin 1.4.1
+
+Version 1.9.3-0      2012-10-02
+* Use the Ruby version for the main RubyStack version
+* Updated Ruby to 1.8.7-p370
+* Updated passenger to 3.0.17
+* Updated Git to 1.7.11.3
+* Updated Subversion to 1.7.5
+* Updated NGinx to 1.3.4
+* Added gzip static module for NGinx
+* Added Bundler config file for getting the gem compilation
+options automatically
+* Updated welcome page and quick start guide
+* Updated gem aws-sdk to 1.6.6
+* Updated PHP to 5.3.17
+* Updated phpMyAdmin to 3.5.2.2
+* Fix issue with ImageMagick and fonts
+
+Version 3.2.7-0      2012-08-01
+* Updated Rails to 3.2.7
+* Updated Git to 1.7.11.3
+* Updated Subversion to 1.7.5
+* Updated NGinx to 1.3.4
+* Updated Ruby to 1.9.3-p194 for Windows
+* Added Varnish 3.0.1
+* Fix issue with ImageMagick and fonts
+* Updated gems:
+* Updated gem rails and its dependencies to 3.2.7
+* Updated gem passenger to 3.0.14
+* Updated gem aws-sdk to 1.6.0
+* Updated gem sqlite2 to 1.3.6
+* Updated gem libv8 to 3.3.10.4
+* Updated ansi to 1.4.3
+* Updated bundler to 1.1.5
+* Updated ronn to 0.7.3
+* Updated journey to 1.0.4
+* Updated coffee-script-source 1.3.3
+* Updated execjs to 1.4.0
+* Updated jquery-rails 2.0.2
+* Updated mime-types to 1.19
+* Updated multi_json to 1.3.6
+* Updated sass to 3.1.20
+* Updated uglifier to 1.2.6
+* Updated hoe to 3.0.6
+* Updated therubyracer to 0.10.1
+
+Version 3.2.5-0      2012-06-08
+* Updated Rails to 3.2.5
+* Updated RVM to 1.13.6
+* Improved RVM compilation environment variables
+* Update PHP to 5.3.13
+* Updated OpenSSL to 1.0.1c
+* Fix CA cert issue with Git
+* Fix openssl version issue
+* Add Digets::SHA perl module
+
+Version 2.3.14-2      2012-06-07
+* Updated RVM to 1.13.6
+* Improved RVM compilation environment variables
+* Added DevKit tdm-32-4.5.2 for Windows
+* Update PHP to 5.3.13
+* Updated OpenSSL to 1.0.1c
+* Fix CA cert issue with Git
+* Fix openssl version issue
+* Add Digets::SHA perl module
+
+Version 3.2.3-0      2012-05-08
+* Added RVM 1.13.0 for Linux and OS X
+* Update Ruby to 1.9.3-p194 for Linux and OSX
+* Added DevKit tdm-32-4.5.2 for Windows
+* Update Ruby to 1.9.3-p125 for Windows
+* Update Rails to 3.2.3
+* Update MySQL 5.5.21
+* Added mysql2 gem 0.2.18 and 0.3.11 
+* Update PostgreSQL addon to 9.1.3
+* Update SQLite to 3.7.10
+* Update PHP to 5.3.11
+* Update Subversion to 1.7.4
+* Update Git to 1.7.9.4
+* Update OpenSSL to 1.0.1
+* Update zlib 1.2.6
+* Update OpenLDAP to 2.4.23
+* Update ncurses 5.9
+* Update bzip2 1.0.6
+* Update libpng to 1.5.9
+* Update tiff to 4.0.1
+* Update jpeg to 8d
+* Update freetype to 2.4.8
+* Update ImageMagick to 6.7.5
+* Update neon 0.29.6
+* Update swig 2.0.4
+* Update expat 2.0.1
+* Update cyrus-sasl to 2.1.25
+* Update gmp to 4.3.1
+* Update curl to 7.24.0
+* Update libiconv to 1.14
+* Update imap to 2007f
+* Update libxml2 to 2.7.8
+* Update libxslt to 1.1.26
+* Update icu4c to 4_8_1_1
+
+
+Version 3.2.1-1      2012-03-19
+* Update Apache to 2.2.22
+* Update PHP to 5.3.10
+* Update NGinx to 1.0.14
+* Update phpMyAdmin to 3.4.10.1
+* Add memcache, tidy, oauth php modules
+* Fix GEM_PATH environment variable issue
+
+Version 2.3.14-1      2012-03-16
+* Update Apache to 2.2.22
+* Update PHP to 5.3.10
+* Update NGinx to 1.0.14
+* Update phpMyAdmin to 3.4.10.1
+* Add memcache, tidy, oauth php modules
+* Fix GEM_PATH environment variable issue
+
+Version 3.2.0-0      2012-01-24
+* Update Rails to 3.2.0
+* Update PHP to 5.3.9
+* Update phpMyAdmin to 3.4.9
+* Update AWS SDK for ruby to 1.3.2
+* Update AWS SDK for PHP to 1.5.1
+
+Version 3.1.3-0      2012-01-16
+* Use Rails versions for the RubyStack name
+* Update Rails to 3.1.3
+* Update Ruby to 1.9.3-p0
+* Update Passenger to 3.0.11 (Linux and OS X)
+* Add gem bundler 1.0.21
+* Update Apache to 2.2.21
+* Update MySQL to 5.5.16 for Linux and OS X
+* Update Subversion to 1.7.1
+* Update Git to 1.7.8
+* Update NGinx to 1.0.10
+* Update AWS SDK for ruby to 1.2.5
+* Update AWS SDK for PHP to 1.5.0
+* Update PDF documentation for Rails 3.1
+* Fix git wrappers.
+* Updated gems:
+* Updated gem actionmailer 3.1.3
+* Updated gem actionpack 3.1.3
+* Updated gem activemodel 3.1.3
+* Updated gem activerecord 3.1.3
+* Updated gem activeresource 3.1.3
+* Updated gem activesupport 3.1.3
+* Updated gem ansi 1.4.1
+* Updated gem arel 2.2.1
+* Updated gem aws-sdk 1.2.5
+* Updated gem bcrypt-ruby 3.0.1
+* Updated gem bigdecimal 1.1.0
+* Updated gem bluecloth 2.2.0
+* Updated gem builder 3.0.0
+* Updated gem bundler 1.0.21
+* Updated gem coffee-rails 3.1.1
+* Updated gem coffee-script 2.2.0
+* Updated gem coffee-script-source 1.2.0
+* Updated gem crack 0.1.8
+* Updated gem daemon_controller 0.2.6
+* Updated gem daemons 1.1.4
+* Updated gem diff-lcs 1.1.3
+* Updated gem erubis 2.7.0
+* Updated gem eventmachine 0.12.10
+* Updated gem execjs 1.2.13
+* Updated gem fastthread 1.0.7
+* Updated gem gherkin 2.7.1
+* Updated gem hike 1.2.1
+* Updated gem hoe 2.12.5
+* Updated gem hoe-bundler 1.1.0
+* Updated gem hoe-debugging 1.0.2
+* Updated gem hoe-gemspec 1.0.0
+* Updated gem httparty 0.8.1
+* Updated gem i18n 0.6.0
+* Updated gem io-console 0.3
+* Updated gem jquery-rails 1.0.19
+* Updated gem json 1.6.3
+* Updated gem libv8 3.3.10.2
+* Updated gem mail 2.3.0
+* Updated gem memcache-client 1.8.5
+* Updated gem mime-types 1.17.2
+* Updated gem mini_magick 3.3
+* Updated gem mini_portile 0.2.2
+* Updated gem minitest 2.9.1, 2.5.1
+* Updated gem multi_json 1.0.4
+* Updated gem multi_xml 0.4.1
+* Updated gem mysql 2.8.1
+* Updated gem mysql2 0.3.11
+* Updated gem nokogiri 1.5.0
+* Updated gem passenger 3.0.11
+* Updated gem polyglot 0.3.3
+* Updated gem racc 1.4.7
+* Updated gem rack 1.3.5
+* Updated gem rack-cache 1.1
+* Updated gem rack-mount 0.8.3
+* Updated gem rack-ssl 1.3.2
+* Updated gem rack-test 0.6.1
+* Updated gem rails 3.1.3
+* Updated gem railties 3.1.3
+* Updated gem rake 0.9.2.2
+* Updated gem rake-compiler 0.7.9
+* Updated gem rdoc 3.12, 3.9.4
+* Updated gem RedCloth 4.2.9
+* Updated gem rexical 1.0.5
+* Updated gem rmagick 2.13.1
+* Updated gem rspec 2.7.0
+* Updated gem rspec-core 2.7.1
+* Updated gem rspec-expectations 2.7.0
+* Updated gem rspec-mocks 2.7.0
+* Updated gem rubygems-update 1.8.12
+* Updated gem sass 3.1.12
+* Updated gem sass-rails 3.1.5
+* Updated gem sprockets 2.0.3
+* Updated gem sqlite3 1.3.5
+* Updated gem sqlite3-ruby 1.3.3
+* Updated gem subexec 0.1.0
+* Updated gem thin 1.2.11
+* Updated gem thor 0.14.6
+* Updated gem tilt 1.3.3
+* Updated gem treetop 1.4.10
+* Updated gem turn 0.8.3
+* Updated gem tzinfo 0.3.31
+* Updated gem uglifier 1.2.0
+* Updated gem uuidtools 2.1.2
+
+Version 2.3.14-0       2012-01-16
+* Use Rails versions for the RubyStack name
+* Update Rails to 2.3.14
+* Update Ruby to 1.8.7-p334
+* Update Passenger to 3.0.11 (Linux and OS X)
+* Add gem bundler 1.0.21
+* Update Apache to 2.2.21
+* Update MySQL to 5.5.16 for Linux and OS X
+* Update Subversion to 1.7.1
+* Update Git to 1.7.8
+* Update NGinx to 1.0.10
+* Update AWS SDK for ruby to 1.2.5
+* Update AWS SDK for PHP to 1.5.0
+* Fix git wrappers.
+* Updated gems:
+* Updated gem actionmailer 2.3.14
+* Updated gem actionpack 2.3.14
+* Updated gem activerecord 2.3.14
+* Updated gem activeresource 2.3.14
+* Updated gem activesupport 2.3.14
+* Updated gem after_commit 1.0.10
+* Updated gem allison 2.0.3
+* Updated gem aws-sdk 1.2.4
+* Updated gem bcrypt-ruby 3.0.1
+* Updated gem bluecloth 2.1.0
+* Updated gem builder 3.0.0
+* Updated gem bundler 1.0.21
+* Updated gem capistrano 2.9.0
+* Updated gem cgi_multipart_eof_fix 2.5.0
+* Updated gem crack 0.3.1
+* Updated gem cucumber 1.1.4
+* Updated gem daemon_controller 0.2.6
+* Updated gem daemons 1.0.10
+* Updated gem delayed_job 2.0.7
+* Updated gem diff-lcs 1.1.2
+* Updated gem echoe 4.5.6
+* Updated gem eventmachine 0.12.10
+* Updated gem fastthread 1.0.7
+* Updated gem file-tail 1.0.7
+* Updated gem gem_plugin 0.2.3
+* Updated gem gemcutter 0.7.1
+* Updated gem gherkin 2.7.1
+* Updated gem gruff 0.3.6
+* Updated gem highline 1.6.8
+* Updated gem hoe 2.12.4
+* Updated gem hpricot 0.8.5
+* Updated gem httparty 0.8.1
+* Updated gem i18n 0.5.0
+* Updated gem json 1.6.3
+* Updated gem json_pure 1.6.3
+* Updated gem memcache-client 1.8.5
+* Updated gem mini_magick 3.3
+* Updated gem mongrel 1.1.5
+* Updated gem mongrel_cluster 1.0.5
+* Updated gem multi_json 1.0.4
+* Updated gem multi_xml 0.4.1
+* Updated gem mysql 2.8.1
+* Updated gem mysql2 0.3.11
+* Updated gem needle 1.3.0
+* Updated gem net-scp 1.0.4
+* Updated gem net-sftp 2.0.5
+* Updated gem net-ssh 2.2.1
+* Updated gem net-ssh-gateway 1.1.0
+* Updated gem nokogiri 1.4.4
+* Updated gem passenger 3.0.11
+* Updated gem polyglot 0.3.3
+* Updated gem rack 1.3.5, 1.1.0
+* Updated gem rack-test 0.5.7
+* Updated gem rails 2.3.14
+* Updated gem rails_analyzer_tools 1.4.0
+* Updated gem rake 0.9.2.2
+* Updated gem rake-compiler 0.7.9
+* Updated gem rcov 0.9.11
+* Updated gem rdoc 3.11
+* Updated gem RedCloth 4.2.9
+* Updated gem riddle 1.5.0
+* Updated gem rmagick 2.12.2
+* Updated gem rspec 2.7.0
+* Updated gem rspec-core 2.7.1
+* Updated gem rspec-expectations 2.7.0
+* Updated gem rspec-mocks 2.7.0
+* Updated gem rubyforge 2.0.4
+* Updated gem spruz 0.2.5
+* Updated gem sqlite3 1.3.5
+* Updated gem sqlite3-ruby 1.3.2
+* Updated gem subexec 0.1.0
+* Updated gem SyslogLogger 1.4.0
+* Updated gem term-ansicolor 1.0.7
+* Updated gem thin 1.2.11
+* Updated gem thinking-sphinx 1.4.10
+* Updated gem tins 0.3.4
+* Updated gem treetop 1.4.5
+* Updated gem uuidtools 2.1.2
+* Updated gem webrat 0.7.3
+* Updated gem ZenTest 4.5.0
+
+
+Version 2.3-0-Dev      2011-09-13
+* Update Rails to 3.1
+* Update Ruby to 1.9.2-p290
+* Update Apache to 2.2.19
+* Update PHP to 5.3.8
+* Update phpMyAdmin to 3.4.4
+* Update AWS SDK for ruby to 1.1.3
+* Update AWS SDK for php to 1.4.1
+* Updated gems:
+* Updated gem actionmailer 3.1.0
+* Updated gem actionpack 3.1.0
+* Updated gem activemodel 3.1.0
+* Updated gem activerecord 3.1.0
+* Updated gem activeresource 3.1.0
+* Updated gem activesupport 3.1.0
+* Updated gem ansi 1.3.0
+* Updated gem arel 2.2.1
+* Updated gem aws-sdk 1.1.3
+* Updated gem bcrypt-ruby 3.0.0
+* Updated gem bluecloth 2.1.0
+* Updated gem builder 3.0.0
+* Updated gem bundler 1.0.18
+* Updated gem coffee-rails 3.1.0
+* Updated gem coffee-script 2.2.0
+* Updated gem coffee-script-source 1.1.2
+* Updated gem crack 0.1.8
+* Updated gem daemon_controller 0.2.6
+* Updated gem daemons 1.1.4
+* Updated gem diff-lcs 1.1.3
+* Updated gem erubis 2.7.0
+* Updated gem eventmachine 0.12.10
+* Updated gem execjs 1.2.4
+* Updated gem fastthread 1.0.7
+* Updated gem gherkin 2.4.18
+* Updated gem hike 1.2.1
+* Updated gem hoe 2.12.2
+* Updated gem hoe-bundler 1.1.0
+* Updated gem hoe-debugging 1.0.1
+* Updated gem hoe-gemspec 1.0.0
+* Updated gem httparty 0.7.8
+* Updated gem i18n 0.6.0
+* Updated gem jquery-rails 1.0.13
+* Updated gem json 1.5.4
+* Updated gem libv8 3.3.10.2 x86_64-linux
+* Updated gem mail 2.3.0
+* Updated gem memcache-client 1.8.5
+* Updated gem mime-types 1.16
+* Updated gem mini_magick 3.2
+* Updated gem mini_portile 0.2.2
+* Updated gem minitest 2.5.1, 1.6.0
+* Updated gem multi_json 1.0.3
+* Updated gem mysql 2.8.1
+* Updated gem nokogiri 1.5.0
+* Updated gem passenger 3.0.9
+* Updated gem polyglot 0.3.2
+* Updated gem racc 1.4.6
+* Updated gem rack 1.3.2
+* Updated gem rack-cache 1.0.3
+* Updated gem rack-mount 0.8.3
+* Updated gem rack-ssl 1.3.2
+* Updated gem rack-test 0.6.1
+* Updated gem rails 3.1.0
+* Updated gem railties 3.1.0
+* Updated gem rake 0.9.2, 0.8.7
+* Updated gem rake-compiler 0.7.9
+* Updated gem rdoc 3.9.4, 2.5.8
+* Updated gem RedCloth 4.2.8
+* Updated gem rexical 1.0.5
+* Updated gem rmagick 2.12.2
+* Updated gem rspec 2.6.0
+* Updated gem rspec-core 2.6.4
+* Updated gem rspec-expectations 2.6.0
+* Updated gem rspec-mocks 2.6.0
+* Updated gem rubygems-update 1.8.10
+* Updated gem rvm 1.8.2
+* Updated gem sass 3.1.7
+* Updated gem sass-rails 3.1.0
+* Updated gem sprockets 2.0.0
+* Updated gem sqlite3 1.3.4
+* Updated gem sqlite3-ruby 1.3.3
+* Updated gem subexec 0.0.4
+* Updated gem therubyracer 0.9.4
+* Updated gem thin 1.2.11
+* Updated gem thor 0.14.6
+* Updated gem tilt 1.3.3
+* Updated gem treetop 1.4.10
+* Updated gem turn 0.8.2
+* Updated gem tzinfo 0.3.29
+* Updated gem uglifier 1.0.3
+* Updated gem uuidtools 2.1.2
+
+
+Version 2.2-2      2011-07-20
+* Add Ruby AWS SDK 1.0.1
+* Update PHP AWS SDK to 1.3.6
+* Add graphical tool for managing servers
+* Update PHP to 5.3.6
+* Updated PEAR to 1.9.2
+
+Version 2.2-0      2011-06-27
+* Add Linux 64 bits support
+* Don't allow to execute the ctlscript.sh script as root when the stack is installed as a non root user
+* Updated ruby to 1.8.7-p334
+* Updated rubygems to 1.6.2
+* Updated nginx to 1.0.2
+* Updated git 1.7.4
+* Updated passenger 3.0.7 (only for Linux)
+* Update SQLite to 1.3.3
+* Updated PHP to 5.3.5
+* Updated AWS SDK to 1.2.6
+* Updated phpMyAdmin to 3.3.10
+* Added libmcrypt 1.2.8
+* Added DBD::MySQL cpan module
+
+* Updated gems:
+* Updated gem sphinx 0.9.9
+* Updated gem rake 0.8.7
+* Updated gem i18n 0.5.0
+* Updated gem memcache-client 1.8.5
+* Updated gem sqlite3-ruby 1.3.2
+* Updated gem mysql 2.8.1
+* Updated gem json 1.5.1
+* Updated gem json_pure 1.5.1
+* Updated gem rubyforge 2.0.4
+* Updated gem hoe 2.9.4
+* Updated gem polyglot 0.3.1
+* Updated gem treetop 1.4.5
+* Updated gem gemcutter 0.7.0
+* Updated gem allison 2.0.3
+* Updated gem echoe 4.5.6
+* Updated gem rack 1.2.2
+* Updated gem rack 1.1.0
+* Updated gem rack-test 0.5.7
+* Updated gem activesupport 2.3.11
+* Updated gem actionpack 2.3.11
+* Updated gem actionmailer 2.3.11
+* Updated gem activerecord 2.3.11
+* Updated gem activeresource 2.3.11
+* Updated gem rails 2.3.11
+* Updated gem cgi_multipart_eof_fix 2.5.0
+* Updated gem gem_plugin 0.2.3
+* Updated gem daemons 1.0.10
+* Updated gem fastthread 1.0.7
+* Updated gem mongrel 1.1.5
+* Updated gem eventmachine 0.12.10
+* Updated gem thin 1.2.11
+* Updated gem needle 1.3.0
+* Updated gem net-ssh 2.1.4
+* Updated gem net-sftp 2.0.5
+* Updated gem highline 1.5.2
+* Updated gem net-ssh-gateway 1.0.1
+* Updated gem net-scp 1.0.4
+* Updated gem capistrano 2.5.21
+* Updated gem mongrel_cluster 1.0.5
+* Updated gem gruff 0.3.6
+* Updated gem RedCloth 4.2.7
+* Updated gem bluecloth 2.1.0
+* Updated gem rmagick 2.12.2
+* Updated gem subexec 0.0.4
+* Updated gem mini_magick 3.2
+* Updated gem rcov 0.9.9
+* Updated gem ZenTest 4.5.0
+* Updated gem hpricot 0.8.4
+* Updated gem SyslogLogger 1.4.0
+* Updated gem rails_analyzer_tools 1.4.0
+* Updated gem diff-lcs 1.1.2
+* Updated gem rspec-core 2.5.0
+* Updated gem rspec-expectations 2.5.0
+* Updated gem rspec-mocks 2.5.0
+* Updated gem rspec 2.5.0
+* Updated gem builder 3.0.0
+* Updated gem term-ansicolor 1.0.5
+* Updated gem gherkin 2.3.5
+* Updated gem cucumber 0.10.2
+* Updated gem nokogiri 1.4.4
+* Updated gem webrat 0.7.3
+* Updated gem daemons 1.0.10
+* Updated gem delayed_job 2.0.7 
+* Updated gem after_commit 1.0.8
+* Updated gem riddle 1.2.2
+* Updated gem thinking-sphinx 1.4.4
+* Updated gem daemon_controller 0.2.6
+* Updated gem spruz 0.2.5
+* Updated gem file-tail 1.0.5
+
+
+Version 2.1-1-Dev      2011-01-28
+* Set version information for openSSL on Linux
+* Fixed perl files which were not being substituted corectly
+* Updated rubygems to 1.3.7
+* Updated gem rails to 2.3.9
+* Updated gem actionmailer to 2.3.9
+* Updated gem actionpack to 2.3.9
+* Updated gem activerecord to 2.3.9
+* Updated gem activeresource to 2.3.9
+* Updated gem activesupport to 2.3.9
+* Updated gem rack to 1.1.0
+* Add gem i18n 0.4.2
+
+Development version:
+* Fixed rake not working on Windows
+
+Version 2.1-1-Dev      2011-01-28
+
+Development version:
+* Updated Ruby to 1.9.2-p0
+* Updated gem rails to 3.0.3
+* Updated gem activesupport to 3.0.3
+* Updated gem activemodel to 3.0.3
+* Updated gem activeresource to 3.0.3
+* Updated gem activerecord to 3.0.3
+* Updated gem actionpack to 3.0.3
+* Updated gem actionmailer to 3.0.3
+* Updated gem railties to 3.0.3
+* Updated gem mongrel to 1.2.0
+* Updated gem rack to 1.2.1
+* Updated gem rack-mount to 0.6.12
+* Updated gem arel to 1.0.1
+* Updated gem erubis to 2.6.6
+* Updated gem mail to 2.2.5
+* Updated gem thor to 0.14.0
+* Updated gem bundler to 1.0.0
+* Updated gem i18n to 0.4.1
+* Updated gem tzinfo to 0.3.23
+
+Version 2.1-0 2010-05-06
+
+* Added Development version with Rails 3.0.0.beta3 and Ruby 1.9
+* Replaced Ruby and gems with their mingw32 version in Windows.
+* Fixed openssl binary (Windows)
+* Removed some unnecessary files to reduce stack size
+
+* Updated Ruby to 1.8.7-p249 (Linux, Windows)
+* Downgraded Ruby to 1.8.7-p174 to avoid SEGFAULT errors (OS X)
+* Updated PHP to 5.2.13
+* Updated Apache to 2.2.14
+* Updated Nginx to 0.7.65
+* Updated Git to 1.7.0.5 (Unix)
+* Updated Git to 1.7.0.2 (Windows)
+* Updated Memcached to 1.4.5
+* Updated Sphinx to 0.9.9
+
+* Added gem mini_magick 1.2.5
+* Updated gem passenger to 2.2.11
+* Updated gem god to 0.9.0
+* Updated gem thinking-sphinx to 1.3.16
+* Updated gem memcache-client to 1.8.2
+* Updated gem capistrano to 2.5.18
+* Updated gem RedCloth to 4.2.3
+* Updated gem bluecloth to 2.0.7
+* Updated gem net-sftp to 2.0.4
+* Updated gem net-ssh to 2.0.21
+* Updated gem highline to 1.5.2
+* Updated gem rubyforge to 2.0.4
+* Updated gem json to 1.2.4
+* Updated gem json_pure to 1.2.4
+* Updated gem webrat to 0.7.0
+* Updated gem nokogiri to 1.4.1
+* Updated gem cucumber to 0.6.4
+* Updated gem echoe to 4.3
+* Updated gem rspec to 1.3.0
+* Updated gem rspec-rails to 1.3.0
+* Updated gem after_commit to 1.0.6
+* Updated gem delayed_job to 2.0.3
+* Updated gem thin to 1.2.7
+* Updated gem riddle to 1.0.10
+
+Development version:
+* Updated Ruby to 1.9.1-p378
+* Updated gem rails to 3.0.0.beta3
+* Updated gem activesupport to 3.0.0.beta3
+* Updated gem activemodel to 3.0.0.beta3
+* Updated gem activeresource to 3.0.0.beta3
+* Updated gem activerecord to 3.0.0.beta3
+* Updated gem actionpack to 3.0.0.beta3
+* Updated gem actionmailer to 3.0.0.beta3
+* Updated gem railties to 3.0.0.beta3
+* Updated gem mongrel to 1.2.0.pre2
+* Updated gem rack to 1.1.0
+* Updated gem rack-mount to 0.6.2
+* Updated gem i18n to 0.3.7
+* Updated gem mime-types to 1.16
+* Updated gem text-format to 1.0.0
+* Updated gem text-hyphen to 1.0.0
+* Updated gem thor to 0.13.4
+* Updated gem mail to 2.2.0
+* Updated gem erubis to 2.6.5
+* Updated gem tzinfo to 0.3.19
+* Updated gem arel to 0.3.3
+* Updated gem abstract to 1.0.0
+* Updated gem bundler to 0.9.23
+* Removed gem mongrel_service (Windows)
+* Removed gem win32-service (Windows)
+
+
+Version 2.0-3 2010-02-10
+
+* Added Rails 3 Beta support. Provides option to install Rails3 beta. You can opt to install the last stable release of Ruby on Rails or the new beta release.
+* Added Digest-SHA1 perl module
+* Updated Ruby Enterprise Edition to 1.8.7-2010.01 (linux and OS X)
+* Updated Phussion Passenger to 2.2.9 (linux and OS X)
+* Updated gem sqlite3-ruby to 1.2.5
+* Updated gem memcache-client to 1.7.8 (linux and OS X)
+* Added gem rack-test 0.5.3
+* Updated Ruby to 1.8.7-p72 (windows)
+
+Version 2.0-2 2010-02-05
+
+* Added gem bluecloth 2.0.5
+* Added DBI perl module
+* Updated ImageMagick to 6.5.8-9 (linux and OS X)
+* Updated ImageMagick to 6.5.6-8 (windows)
+* Updated gem rmagick to 2.12.0 (windows)
+* Fix ImageMagick issue (linux and OS X)
+* Fix irb issue with readline on OS X
+
+Version 2.0-1 2009-12-15
+
+* Remove tcmalloc extension
+* Fix readline issue on OS X
+* Add subversion ruby bindings
+* Added mod_perl 2.0.4
+* Updated Ruby to 1.8.7-p174 on Windows
+* Updated Subversion to 1.6.6
+* Added gem json 1.2.0
+* Updated gem rails to 2.3.5
+* Updated gem actionmailer to 2.3.5
+* Updated gem actionpack to 2.3.5
+* Updated gem activerecord to 2.3.5
+* Updated gem activeresource to 2.3.5
+* Updated gem activesupport to 2.3.5
+
+
+Version 2.0-0 2009-11-18
+
+* Added Ruby Enterprise Edition 1.8.7-2009.10 (linux and OS X)
+* Added Phussion Passenger 2.2.5 for Nginx and Apache (linux and OS X)
+* Added Memcached 1.2.6 (linux and OS X)
+* Added Sphinx 0.9.8.1
+* Fixed Ruby library path in linux-x64
+
+* Updated Git to 1.6.5
+* Updated MySQL to 5.1.30 (linux and OS X)
+* Updated MySQL to 5.0.83 (windows)
+* Updated Nginx to 0.7.64
+* Updated rubygems to 1.3.5
+
+* Added gem thin 1.2.4
+* Added gem delayed_job 1.8.4
+* Added gem thinking-sphinx 1.3.3
+* Added gem after_commit 1.0.2
+* Added gem riddle 0.9.8.1231.0
+* Added gem json_pure to 2.0.3
+
+* Updated gem rack to 1.0.1
+* Updated gem rails to 2.3.4
+* Updated gem actionmailer to 2.3.4
+* Updated gem actionpack to 2.3.4
+* Updated gem activerecord to 2.3.4
+* Updated gem activeresource to 2.3.4
+* Updated gem activesupport to 2.3.4
+
+* Updated gem capistrano to 2.5.9
+* Updated gem mysql to 2.8.1
+* Updated gem gruff to 0.3.6
+* Updated gem net-ssh to 2.0.15
+* Updated gem hoe to 2.3.3
+* Updated gem rubyforge to 2.0.3
+* Updated gem event-machine to 0.12.10
+* Updated gem god to 0.7.18 (linux and OS X)
+* Updated gem rmagick 2.12.2 (linux and OS X)
+* Updated gem memcache-client to 1.7.5 (linux and OS X)
+* Updated gem ZenTest to 4.1.4
+* Updated gem rspec to 1.2.9
+* Updated gem rspec-rails to 1.2.9
+* Updated gem webrat to 0.5.3
+* Updated gem nokogiri to 1.4.0
+* Updated gem cucumber to 0.4.3
+* Updated gem treetop to 1.4.2
+* Updated gem polyglot to 0.2.9
+* Updated gem term-ansicolor to 1.0.4
+* Updated gem hpricot to 0.8.2
+* Updated gem echoe to 3.2
+
+* Removed gem beanstalk-client
+
+
+Version 1.6-0       2009-09-04
+* Support for PostgreSQL module
+* Update Apache to 2.2.13
+
+Version 1.5-4       2009-07-20
+* Fix issue with imagemagick on Windows
+
+Version 1.5-3       2009-07-09
+* Update MySQL to 5.0.63
+* Update PHP to 5.2.10
+
+Version 1.5-2       2009-06-11
+* Fixed Git issues under Unix systems
+
+Version 1.5-1       2009-06-09
+* Fixed issue for OS X PPC platforms
+
+Version 1.5-0       2009-06-04
+
+* Fixed infinite loop while upgrading rubygems through gem command
+
+* Updated Git to 1.6.3
+* Updated ImageMagick to 6.5.2-9 (unix)
+* Updated ImageMagick to 6.4.8-6-Q8 (windows)
+* Updated Ruby to 1.8.7-p160 (unix)
+* Updated Ruby to 1.8.7-p72 (windows)
+* Updated Ruby19 to 1.9.1-p129 (unix)
+* Updated Ruby19 to 1.9.1-p0 (windows)
+* Updated Subversion to 1.6.2
+* Updated nginx to 0.7.59 with nginx-upstream-fair-20081012 (linux)
+* Added nginx 0.7.59 to windows
+
+* Updated rubygems to 1.3.4
+* Updated gem actionmailer to 2.3.2
+* Updated gem activesupport to 2.3.2
+* Updated gem activerecord to 2.3.2
+* Updated gem activeresource to 2.3.2
+* Updated gem eventmachine to 0.12.8
+* Updated gem fastthread to 1.0.7 (linux,osx)
+* Updated gem fiveruns_tuneup to 0.8.20
+* Updated gem memcache-client to 1.7.2
+* Updated gem net-sftp to 2.0.2
+* Updated gem net-ssh to 2.0.11
+* Updated gem net-ssh-gateway to 1.0.1
+* Updated gem rake to 0.8.7
+* Updated gem rails to 2.3.2
+* Updated gem rmagick to 2.9.2 (linux, osx)
+* Updated gem rmagick to 2.9.0 (mswin32)
+* Updated gem rubyforge to 1.0.3
+* Updated gem sqlite3-ruby to 1.2.4 (linux, osx)
+* Updated gem sqlite3-ruby to 1.2.3 (mswin32)
+* Removed gem piston
+
+Developer mode:
+* Updated gem rspec to 1.2.6
+* Added gem rspec-rails 1.2.6
+* Updated gem webrat to 0.4.4
+* Added gem nokogiri 1.3.0
+* Added gem cucumber 0.3.9
+* Added gem term-ansicolor 1.0.3
+* Added gem treetop 1.2.5
+* Added gem builder 2.1.2
+* Added gem diff-lcs 1.1.2
+* Added gem polyglot 0.2.5
+
+
+Version 1.4-beta-1 	2008-10-18
+Version 1.2-1 		2008-10-18
+
+* Fix OS X installation issue
+
+
+Version 1.4-beta-0 	2008-10-01
+Version 1.2-0 		2008-10-01
+
+* Support for Bitnami Modules
+
+* Updated gem actionmailer to 2.1.1
+* Updated gem actionpack to 2.1.1
+* Updated gem activerecord to 2.1.1
+* Updated gem activeresource to 2.1.1
+* Updated gem activesupport to 2.1.1
+* Updated gem beanstalk-client to 1.0.2
+* Updated gem capistrano to 2.5.0
+* Updated gem eventmachine to 0.12.0
+* Updated gem fastthread to 1.0.1 (mswin32)
+* Updated gem fiveruns_tuneup to 0.8.15
+* Updated gem gem_plugin to 0.2
+* Updated gem god to 0.7.8
+* Updated gem gruff to 0.3.4
+* Updated gem hoe to 1.7.0
+* Updated gem hpricot to 0.6.161
+* Updated gem mongrel to 1.1.5
+* Updated gem mongrel to 1.1.5 (mswin32)
+* Updated gem net-scp to 1.0.1
+* Updated gem net-sftp to 2.0.1
+* Updated gem net-ssh to 2.0.4
+* Updated gem rack to 0.4.0
+* Updated gem rails to 2.1.1
+* Updated gem rake to 0.8.2
+* Updated gem RedCloth to 4.0.3
+* Updated gem rmagick to 2.6.0
+* Updated gem thin to 0.8.2
+
+Version 1.3-beta-4      2008-09-22
+* Support to install PHP and Ruby modules
+
+Version 1.3-beta-3	2008-09-02
+* Updated rails (2.0.2 -> 2.1.0)
+* Updated gem actionmailer (2.0.2 -> 2.1.0)
+* Updated gem actionpack (2.0.2 -> 2.1.0)
+* Updated gem activerecord (2.0.2 -> 2.1.0)
+* Updated gem activeresource (2.0.2 -> 2.1.0)
+* Updated gem activesupport (2.0.2 -> 2.1.0)
+* Updated gem rspec (1.1.3 -> 1.1.4)
+
+Version 1.3-beta-2      2008-08-25
+Updates for Linux & OS X RubyStack
+* Added fiveruns_tuneup gem (0.8.13)
+* Added echoe gem (3)
+* Updated rubyforge gem (0.4.5 -> 1.0.0)
+* Updated rubygems (1.0.1 -> 1.2.0)
+
+Updates for Windows RubyStack
+* Added fiveruns_tuneup gem (0.8.13)
+* Added rubyforge gem (1.0.0)
+* Added echoe gem (3)
+* Added highline gem (1.4.0)
+* Updated rubygems (1.0.1 -> 1.2.0)
+
+Version 1.3-beta-1      2008-08-12
+* Fixed installation on Linux 64 bits systems
+
+Version 1.2-beta 	2008-06-16
+Previous updates are only supported in Linux and OS X
+Updates for Windows RubyStack
+* gem actionmailer (2.0.2)
+* gem actionpack (2.0.2)
+* gem activerecord (2.0.2)
+* gem activeresource (2.0.2)
+* gem activesupport (2.0.2)
+* gem cgi_multipart_eof_fix (2.5.0)
+* gem daemons (1.0.10)
+* gem fastthread (1.0.1)
+* gem gem_plugin (0.2.3)
+* gem mongrel (1.1.4)
+* gem mysql (2.7.3)
+* gem rails (2.0.2)
+* gem rake (0.8.1)
+* ImageMagick 6.4.0-2-Q8
+* Git 1.5.5
+* RMagick 2.3.0
+
+Version 1.2-beta	2008-05-23
+* Added ruby 1.9.0-1
+* Added git 1.5.5.1
+* Added pcre 7.7
+* Added nginx 0.6.30 with nginx-upstream-fair-20080325
+* Added gem thin 0.8.1
+* Added gem rack 0.3.0
+* Added gem eventmachine 0.10.0
+* Added gem god 0.7.3
+* Added gem beanstalk-client 0.11.0
+* Added gem memcache-client 1.5.0
+* Added gem ZenTest 3.9.2
+* Added gem webrat 0.2.0
+* Added gem rspec 1.1.3
+* Added gem rcov 0.8.1.2.0
+* Added gem piston 1.4.0
+* Added gem rails_analyzer_tools 1.4.0
+* Added gem net-scp 1.0.0
+* Added gem SyslogLogger 1.4.0
+* Added gem hpricot 0.6
+* Added gem net-ssh-gateway 1.0.0
+* Updated gem capistrano [2.1.0 -> 2.3.0]
+* Updated gem mysql [2.7 -> 2.7.3]
+* Updated gem mongrel [1.1.3 -> 1.1.4]
+* Updated gem daemons [1.0.9 -> 1.0.10]
+* Updated gem rmagick [2.2.0 -> 2.3.0]
+* Updated gem win32-service [0.5.2 -> 0.6.1]
+* Updated gem gruff [0.2.9 -> 0.3.1]
+* Updated gem net-sftp [1.1.0 -> 2.0.0]
+* Updated gem net-ssh [1.1.2 -> 2.0.1]
+* Updated gem hoe [1.3.0 -> 1.5.1]
+* Updated gem rubyforge [0.4.4 -> 0.4.5]
+
+Version 1.1-1		2008-03-05
+* Fixed installation bug related to SELinux
+
+Version 1.1 		2008-02-14
+* Added SSL support for Subversion in Unix flavours.
+* Added MySQL binary gem, version 2.7.
+* Updated ImageMagick for Windows to 6.3.7-8-Q8.
+* Updated RubyGems to 1.0.1.
+* Updated mongrel_service to 1.3.4.
+* Updated RMagick to 2.0 on Windows and 2.2 on Unix.
+* Updated Apache to 2.2.8.
+
+Version 1.0		2008-01-09
+* Added support for OS X Intel and PowerPC.
+
+Version 1.0-beta-6	2008-01-04
+* Solved bug that not installed production mode on Windows.
+
+Version 1.0-beta-5	2008-01-03
+* Added support for Linux platforms.
+* Updated to Rails 2.0.2 and Mongrel 1.1.3.
+
+Version 1.0-beta-4	2007-12-26
+* Updated to Apache 2.2.6
+* Include production mode.
+* Relocate default projects directory on Windows, to address 
+Windows Vista UAC restrictions. Thanks to Sutch for reporting this.
+
+Version 1.0-beta-3	2007-12-11
+* Updated to Rails 2.0.1
+* Include Apache 2.0.61, PHP 5.2.5 and phpMyAdmin 2.11.0
+* Include mongrel_service gem and its dependencies.
+
+Version 1.0-beta-2	2007-11-26
+* Solved conflict with One Click Ruby Installer during the installation 
+("ruby: no such file to load -- ubygems (LoadError)").
+* Solved bug that stopped RMagick to work (switched to ImageMagick
+6.3.5-8-Q8).
+
+Version 1.0-beta-1	2007-11-19
+* Ruby updated to patch 111 of the same version.
+* Sample application is now created on a separate directory called "projects".
+
+Version: 1.0-beta    2007-11-16
+* Initial beta release.
+

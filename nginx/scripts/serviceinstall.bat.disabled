@@ -1,0 +1,19 @@
+@echo off
+rem -- Check if argument is INSTALL or REMOVE
+
+if not ""%1"" == ""INSTALL"" goto remove
+
+"H:/Rails/nginx\scripts\servicenginx.exe" install
+net start rubystackNginx > NUL
+
+goto end
+
+:remove
+rem -- STOP SERVICE BEFORE REMOVING
+
+net stop rubystackNginx > NUL
+
+"H:/Rails/nginx\scripts\servicenginx.exe" uninstall
+
+:end
+exit

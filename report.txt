@@ -1,0 +1,59 @@
+INSTALLATION REPORT
+===================
+
+Thank you for installing Bitnami Ruby Stack. This file contains the
+configuration settings that were used when Bitnami Ruby Stack was 
+originally installed that may be useful in the future.
+
+This file is located in:
+H:\Rails\report.txt
+
+You can also access to it through the Start Menu:
+Start -> Bitnami Ruby Stack -> Installation Report
+
+CONFIGURATION INFORMATION
+=========================
+
+Bitnami Ruby Stack has been installed in the following dir:
+
+H:\Rails
+
+In order to run 'ruby', 'rails', 'gem', 'svn', 'mysql' or any other
+commands the proper environment variables and settings must be setup.
+
+You can do so by either clicking the 'Use Ruby' entry in the Start
+Menu or, from the command line, calling:
+
+"H:\Rails\use_ruby.bat"
+
+
+MySQL was installed with the following configuration:
+
+Binaries location: H:\Rails\mysql\bin
+Port: 3306
+Root password: Marian76
+
+
+MySQL was installed with the following configuration:
+
+Binaries location: H:\Rails\postgresql\bin
+Port: 5432
+Root password: Marian76
+
+Apache was installed with the following configuration:
+Port: 80
+SSL Port: 443
+
+phpMyAdmin was installed with the following configuration:
+Username: root
+Password: 
+
+phpPgAdmin was installed with the following configuration:
+Username: postgres
+Password: Marian76
+
+A sample Rails application was generated in the following path:
+H:\Rails/projects\sample
+
+A sample database.yml file can be found in the following path:
+H:\Rails/projects\sample\config\database.yml
